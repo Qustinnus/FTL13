@@ -28,6 +28,7 @@
 	var/shuttle_abstract_movable = 0
 
 	var/dangerous_possession = FALSE	//Admin possession yes/no
+	var/penissize
 
 /obj/vv_edit_var(vname, vval)
 	switch(vname)
